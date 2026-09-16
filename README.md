@@ -1,16 +1,52 @@
-## Hi there 👋
+# ThankGod Timipere Austin
 
-<!--
-**timiperethankgod120-ship-it/timiperethankgod120-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel & Power BI | SQL | Business Intelligence
 
-Here are some ideas to get you started:
+I am a Data Analyst focused on transforming raw data into meaningful insights that support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Excel, SQL, and Power BI to clean, analyze, visualize, and communicate data effectively. I also explore AI-powered tools and workflow automation to improve productivity and create smarter ways of working with data.
+
+## Core Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- KPI Reporting
+- Business Intelligence
+- AI & Workflow Automation
+
+## Featured Projects
+
+### Retail Sales Performance Dashboard
+
+An interactive retail sales dashboard developed entirely in Microsoft Excel to analyze revenue, profit, orders, quantity sold, product performance, regional performance, payment methods, and monthly revenue trends.
+
+**Tools:** Microsoft Excel
+
+### HR Employee Attrition Dashboard
+
+An HR analytics dashboard designed to analyze employee retention, attrition, workforce trends, employee tenure, income, departmental attrition, and reasons for employee departures.
+
+**Tools:** Data Analytics & Dashboard Development
+
+## Currently Learning
+
+- Python
+
+## Portfolio
+
+My portfolio showcases selected data analytics projects, dashboards, and professional work.
+
+## Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](YOUR-LINKEDIN-URL)
+- Portfolio: [My Portfolio](YOUR-PORTFOLIO-URL)
+
+---
+
+**ThankGod Timipere Austin**  
+*Data Analyst | Business & Data Analytics*
