@@ -44,7 +44,8 @@ My portfolio showcases selected data analytics projects, dashboards, and profess
 ## Connect With Me
 
 - LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/thankgod-timipere-austin-7b6a01390)
-- Portfolio: [My Portfolio](YOUR-PORTFOLIO-URL)
+- Portfolio: [My Portfolio](Live site: https://timiperethankgod120-ship-it.github.io/austin-portfolio/
+GitHub repo: https://github.com/timiperethankgod120-ship-it/austin-portfolio)
 
 ---
 
